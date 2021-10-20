@@ -1,7 +1,7 @@
 # General
 name: Minimal-Block
 description: "Minimalistic, friendly, responsive."
-url: https://blog.drvy.net/minimal-block
+url: https://coetzeer.github.io/jekyll-theme-minimal-block/
 
 markdown: kramdown
 highlighter: pygments
